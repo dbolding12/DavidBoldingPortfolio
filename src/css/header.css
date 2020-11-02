@@ -1,0 +1,39 @@
+
+h1, h2 {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Apple Chancery, cursive;
+    
+}
+.container{
+    width: 80vw;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100rem;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px 0px;
+    background-color: lightgrey;
+}
+
+h2 {
+    text-align: Center;
+    
+}
+.image {
+    width: 200px;
+    height: 200px;
+    border-color: black;
+}
+
+
+
+
+
+ 
+  
