@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DavidBoldingPortfolio/static/css/main.82ca60cc.chunk.css",
+    "main.js": "/DavidBoldingPortfolio/static/js/main.12e56b53.chunk.js",
+    "main.js.map": "/DavidBoldingPortfolio/static/js/main.12e56b53.chunk.js.map",
+    "runtime-main.js": "/DavidBoldingPortfolio/static/js/runtime-main.7300b0e8.js",
+    "runtime-main.js.map": "/DavidBoldingPortfolio/static/js/runtime-main.7300b0e8.js.map",
+    "static/js/2.4bf5f4f9.chunk.js": "/DavidBoldingPortfolio/static/js/2.4bf5f4f9.chunk.js",
+    "static/js/2.4bf5f4f9.chunk.js.map": "/DavidBoldingPortfolio/static/js/2.4bf5f4f9.chunk.js.map",
+    "static/js/3.d0611a1f.chunk.js": "/DavidBoldingPortfolio/static/js/3.d0611a1f.chunk.js",
+    "static/js/3.d0611a1f.chunk.js.map": "/DavidBoldingPortfolio/static/js/3.d0611a1f.chunk.js.map",
+    "index.html": "/DavidBoldingPortfolio/index.html",
+    "service-worker.js": "/DavidBoldingPortfolio/service-worker.js",
+    "service-worker.js.map": "/DavidBoldingPortfolio/service-worker.js.map",
+    "static/css/main.82ca60cc.chunk.css.map": "/DavidBoldingPortfolio/static/css/main.82ca60cc.chunk.css.map",
+    "static/js/2.4bf5f4f9.chunk.js.LICENSE.txt": "/DavidBoldingPortfolio/static/js/2.4bf5f4f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7300b0e8.js",
+    "static/js/2.4bf5f4f9.chunk.js",
+    "static/css/main.82ca60cc.chunk.css",
+    "static/js/main.12e56b53.chunk.js"
+  ]
+}

@@ -1,4 +1,6 @@
 img {
+    object-fit: cover;
+    object-position: center top;
     width:auto;
     border-radius: 100px;
     padding:5px;
